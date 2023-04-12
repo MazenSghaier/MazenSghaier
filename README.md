@@ -5,4 +5,3 @@ You can check out my LinkedIn profile : https://www.linkedin.com/in/mazen-sghaie
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MazenSghaier&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MazenSghaier)](https://github.com/anuraghazra/github-readme-stats)
