@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Mazen
 #### I am Software enginneering Student
-Hi I am Mazen Sghaier from Tunisia , I am passionate about exploring new technologies and enhancing the user experience. I am always excited to work and gain new skills.
+Hi, I am Mazen Sghaier from Tunisia, I am passionate about exploring new technologies and enhancing the user experience. I am always excited to work on mastering my skills and gaining new ones.
 
-Skills: SpringBoot / REACT / JS / HTML / CSS / PyTHON / C++ / C / JAVA / MYSQL / REACT NATIVE / 
+Skills:  HTML / CSS / Node.js / Express.js / React.js / TypeScript.js / Next.js / Redux / MongoDB / MySql / Python / C++ / C / Java / Swift / React native / Django / Jenkins
 
 - 📫 How to reach me: Sghaiermazen7@mail.com 
 
