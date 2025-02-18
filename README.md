@@ -2,7 +2,7 @@
 #### I am Software enginneering Student
 Hi, I am Mazen Sghaier from Tunisia, I am passionate about exploring new technologies and enhancing the user experience. I am always excited to work on mastering my skills and gaining new ones.
 
-Skills:  HTML / CSS / Node.js / Express.js / React.js / TypeScript.js / Next.js / Redux / MongoDB / MySql / Python / C++ / C / Java / Swift / React native / Django / Jenkins
+Skills:  HTML / CSS / Node.js / Express.js / React.js / TypeScript.js / Next.js / Angular / Java /Python / C# / Java / Redux / MongoDB / MySql/ React native / Django / Jenkins
 
 - 📫 How to reach me: Sghaiermazen7@mail.com 
 
