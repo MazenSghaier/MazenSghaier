@@ -4,7 +4,7 @@ Hi, I am Mazen Sghaier from Tunisia, I am passionate about exploring new technol
 
 Skills: Java / C# / Python / Angular / React / Next.js / TypeScript / Spring Boot / .Net / Node.js / Express.js / Redux / MongoDB / MySql/ React native / Jenkins
 
-- 📫 How to reach me: Sghaiermazen7@mail.com 
+- 📫 How to reach me: Sghaiermazen7@gmail.com 
 
 
 
