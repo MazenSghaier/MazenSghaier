@@ -21,5 +21,5 @@ Skills: Java / C# / Python / Angular / React / Next.js / TypeScript / Spring Boo
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MazenSghaier)  
 
-![Profile views](https://gpvc.arturio.dev/MazenSghaier)  
+![Profile views](https://mazen-sghaier.vercel.app/)  
 
