@@ -1,50 +1,54 @@
 ### 👋 Hi there, I'm Mazen Sghaier
 
-🚀 **Software Engineering Graduate | Full-Stack Developer | Cloud & DevOps Enthusiast**
+🚀 **DevOps Engineer | Cloud & Automation Enthusiast**
 
-I'm a passionate Software Engineer from Tunisia with hands-on experience building scalable, modern web applications. I enjoy working across the full stack and continuously learning new technologies to deliver high-quality, user-focused solutions.
+I'm a DevOps Engineer from Tunisia passionate about building reliable, scalable, and automated infrastructure. I focus on bridging development and operations by implementing CI/CD pipelines, cloud-native solutions, and modern DevOps practices.
 
 ---
 
 ### 💡 About Me
 
-- 🔭 Currently focused on **.NET 8, Angular 17, and Cloud (Azure)**
-- 💼 Experience in **Full-Stack Development & DevOps**
-- 🧠 Strong foundation in **Clean Architecture, SOLID principles, and Microservices**
-- ⚡ Passionate about **performance, scalability, and user experience**
-- 🌍 Open to collaboration and new opportunities
+- 🔭 Currently working with **Azure Cloud, CI/CD, and Containerization**
+- ⚙️ Strong focus on **automation, deployment pipelines, and system reliability**
+- 🧠 Solid understanding of **DevOps practices, Microservices & Cloud Architecture**
+- 📈 Passionate about **scalability, monitoring, and performance optimization**
+- 🌍 Open to **DevOps / Cloud Engineer opportunities**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ DevOps & Cloud Stack
 
-**Languages:**  
-`C#` `Java` `Python` `TypeScript` `JavaScript` `SQL`
+**Cloud Platforms:**  
+`Microsoft Azure` `Azure AD B2C` `App Services` `Azure Functions`
 
-**Frontend:**  
-`Angular` `React` `Next.js` `Redux` `Tailwind CSS` `Kendo UI`
+**CI/CD & Automation:**  
+`Azure DevOps` `Jenkins` `GitHub Actions`
 
-**Backend:**  
-`.NET / ASP.NET Core` `Spring Boot` `Node.js` `Express.js` `REST APIs`
+**Containerization & Orchestration:**  
+`Docker` `Kubernetes`
 
-**Mobile:**  
-`React Native`
+**Scripting & Automation:**  
+`Bash` `Python`
 
-**DevOps & Cloud:**  
-`Azure` `Azure DevOps` `Docker` `Jenkins` `GitHub Actions`
+**Monitoring & Logging:**  
+`Application Logs` `Monitoring Tools` `Performance Analysis`
+
+**Infrastructure & Tools:**  
+`Git` `Linux (Ubuntu, CentOS)` `Nginx` `REST APIs`
 
 **Databases:**  
-`SQL Server` `MySQL` `PostgreSQL` `MongoDB`
+`SQL Server` `PostgreSQL` `MongoDB`
 
 ---
 
-### 🧪 Experience Highlights
+### ⚙️ Experience Highlights
 
-- 🔹 Built scalable APIs using **.NET 8** with Clean Architecture
-- 🔹 Developed modern UIs with **Angular 17 + NgRx**
-- 🔹 Implemented **CI/CD pipelines** using Azure DevOps & Jenkins
-- 🔹 Integrated **Azure AD B2C authentication**
-- 🔹 Worked in Agile teams with international collaboration
+- 🔹 Designed and implemented **CI/CD pipelines** using Azure DevOps & Jenkins
+- 🔹 Containerized applications using **Docker** and managed deployments
+- 🔹 Deployed and managed applications on **Microsoft Azure**
+- 🔹 Automated workflows and scripts for **build, test, and deployment processes**
+- 🔹 Monitored application performance and analyzed logs for reliability
+- 🔹 Collaborated in **Agile environments** with cross-functional teams
 
 ---
 
