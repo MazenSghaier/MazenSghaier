@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Mazen Sghaier
 
-🚀 **DevOps Engineer | Cloud & Automation Enthusiast**
+🚀 **Software Engineer | DevOps Enthusiast | AI & Cloud Explorer**
 
 I'm a DevOps Engineer from Tunisia passionate about building reliable, scalable, and automated infrastructure. I focus on bridging development and operations by implementing CI/CD pipelines, cloud-native solutions, and modern DevOps practices.
 
@@ -8,11 +8,11 @@ I'm a DevOps Engineer from Tunisia passionate about building reliable, scalable,
 
 ### 💡 About Me
 
-- 🔭 Currently working with **Azure Cloud, CI/CD, and Containerization**
+- 🔭 Currently working with **AI integration, CI/CD, and Containerization**
 - ⚙️ Strong focus on **automation, deployment pipelines, and system reliability**
 - 🧠 Solid understanding of **DevOps practices, Microservices & Cloud Architecture**
-- 📈 Passionate about **scalability, monitoring, and performance optimization**
-- 🌍 Open to **DevOps / Cloud Engineer opportunities**
+- 📈 Passionate about **scalability architectures, CI/CD automation, AI-driven development, and performance optimization**
+- 🌍 Open to **Web Development / AI / DevOps Engineer opportunities**
 
 ---
 
