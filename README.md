@@ -36,23 +36,6 @@ I’m a Software Engineer from Tunisia with experience building applications **f
 **Databases**
 `PostgreSQL` `SQL Server` `MongoDB`
 
----
-
-## ⚙️ Projects
-
-### 🔹 OpsPilot – AI-Powered Incident Intelligence
-
-* Built an AI system for **anomaly detection in logs/metrics**
-* Implemented **semantic search with embeddings**
-* Integrated **LLM for incident explanation (RAG)**
-* Exposed everything via **FastAPI APIs**
-
-### 🔹 HR Chatbot
-
-* Built a chatbot using **NLP and embeddings**
-* Focused on improving response relevance using semantic search
-
----
 
 ## 📈 Experience Highlights
 
